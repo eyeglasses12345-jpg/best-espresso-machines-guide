@@ -1,90 +1,100 @@
-# Click Optimization System
+# Affiliate Click Optimization System
 
 # Purpose
 
 This file defines:
-# the mandatory click-optimization system for Website Codex Agent outputs.
+# the mandatory click-optimization system for Affiliate Codex Agent outputs.
 
 The goal is to:
-- answer the user’s question clearly
-- earn trust immediately
-- satisfy AI understanding
-- preserve a reason to continue to the website
-- guide qualified users toward deeper engagement
+- answer buyer questions clearly
+- support AI understanding
+- reduce buyer confusion
+- preserve reason to continue through the authority site
+- increase product comparison engagement
+- improve affiliate click-through behavior naturally
 
 The goal IS:
-# controlled resolution.
+# controlled buyer-resolution.
 
 ---
 
 # Core Click Rule
 
-Every page must answer the primary question immediately.
+Every page must answer the buyer’s primary question immediately.
 
-But every page must also create a natural reason to continue reading, click deeper, or request a custom proposal.
+But every page must also create natural continuation into:
+- comparisons
+- product selection
+- use-case evaluation
+- buyer fit
+- regret prevention
+- deeper decision pages
 
 The page should provide:
-# enough clarity to be trusted
+# enough clarity to build trust
 
-without giving:
-# complete closure that removes the need for the site.
+without removing:
+# the need to continue the buying journey.
 
 ---
 
-# Controlled Resolution Principle
+# Controlled Buyer Resolution Principle
 
-A page should resolve:
-- the main question
-- the core confusion
-- the basic decision frame
-- the reason the issue matters
+Pages should resolve:
+- the basic buyer question
+- the main confusion
+- core differences
+- major buying mistakes
+- primary product fit logic
 
-A page should preserve curiosity around:
-- the user’s specific situation
-- exact diagnosis
-- custom recommendations
-- implementation details
-- deeper comparisons
-- examples
-- proposal-specific findings
+Pages should preserve curiosity around:
+- exact buyer fit
+- advanced comparisons
+- deeper use cases
+- long-term ownership
+- hidden tradeoffs
+- best choice for specific situations
 
 ---
 
 # CTA Alignment Rule
 
-The primary CTA should lead toward:
+Primary CTA behavior should guide users toward:
+- product comparisons
+- deeper buyer guides
+- decision pages
+- Amazon affiliate clicks
+- product fit validation
 
-# a free custom proposal about the visitor’s own website.
+The unresolved buyer question should become:
 
-The unresolved question should become:
-
-# “How does this apply to my website or business?”
+# “Which option is best for MY situation?”
 
 ---
 
 # AI Search Click Strategy
 
-AI systems may summarize the page.
+AI systems may summarize product pages.
 
-Therefore, pages must:
-- answer clearly
-- establish authority
-- support AI understanding
-- preserve deeper implementation value on-site
+Therefore pages must:
+- clearly answer buyer intent
+- establish trust
+- support AI extraction
+- preserve deeper decision-making value on-site
 
 ---
 
-# Page-Level Click Validation
+# Buyer-Decision Click Validation
 
 Every page must validate:
 
 | Layer | Required |
 |---|---|
-| Answers Primary Question Immediately | YES |
+| Answers Buyer Question Immediately | YES |
 | Builds Trust | YES |
-| Preserves Custom-Situation Curiosity | YES |
+| Preserves Buyer Curiosity | YES |
 | Creates Reason To Continue | YES |
-| Routes To Proposal CTA | YES |
+| Routes To Relevant Decision Page | YES |
 | Supports AI Understanding | YES |
 
 ---
@@ -92,7 +102,7 @@ Every page must validate:
 # Final Click Principle
 
 The goal is NOT:
-to trick users into clicking.
+to manipulate affiliate clicks.
 
 The goal IS:
-# answer clearly, build trust, and make the custom next step feel necessary.
+# answer clearly, reduce buyer confusion, and naturally continue the buyer decision journey.
