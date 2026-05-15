@@ -14,7 +14,10 @@ Secondary Category: Ownership Fit and Machine Matching
 Primary Intent: beginner machine matching
 Buyer State: Overwhelmed first-time buyer seeking reassurance and manageable ownership
 Semantic Territory: beginner identity calibration, simplicity vs complexity matching, anti-regret entry points
-Primary Products: Breville Bambino, Ninja Luxe Café, Philips LatteGo
+Primary Products:
+- Breville Bambino
+- Ninja Luxe Café
+- Philips LatteGo
 Required Internal Links:
 - /espresso-hobby-vs-convenience/
 - /semi-automatic-vs-superautomatic-espresso-machines/

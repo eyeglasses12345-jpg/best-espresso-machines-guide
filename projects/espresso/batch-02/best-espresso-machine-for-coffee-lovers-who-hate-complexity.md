@@ -14,7 +14,10 @@ Secondary Category: Convenience Ownership Fit
 Primary Intent: low-friction beginner espresso
 Buyer State: Wants better coffee but rejects hobby-style machine routines
 Semantic Territory: convenience-first ownership, low-maintenance sustainability, anti-overwhelm buying
-Primary Products: Philips LatteGo, Nespresso Vertuo, Ninja Luxe Café
+Primary Products:
+- Philips LatteGo
+- Nespresso Vertuo
+- Ninja Luxe Café
 Required Internal Links:
 - /espresso-hobby-vs-convenience/
 - /semi-automatic-vs-superautomatic-espresso-machines/

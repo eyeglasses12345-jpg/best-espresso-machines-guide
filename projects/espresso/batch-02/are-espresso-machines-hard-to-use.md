@@ -14,7 +14,10 @@ Secondary Category: Ownership Realism
 Primary Intent: beginner complexity anxiety
 Buyer State: Nervous about technical overwhelm and daily routine burden
 Semantic Territory: complexity calibration, fear reduction, ownership expectations
-Primary Products: Philips LatteGo, Ninja Luxe Café, Breville Bambino
+Primary Products:
+- Philips LatteGo
+- Ninja Luxe Café
+- Breville Bambino
 Required Internal Links:
 - /espresso-hobby-vs-convenience/
 - /semi-automatic-vs-superautomatic-espresso-machines/
