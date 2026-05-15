@@ -1,3 +1,10 @@
+---
+ai_understanding_score: 95
+status: PASS
+project: espresso
+batch: batch-01
+---
+
 Page Title: What Type of Espresso Machine Should I Buy?
 SEO Title: What Type of Espresso Machine Should I Buy? Beginner Category Guide
 Slug: what-type-of-espresso-machine-should-i-buy
