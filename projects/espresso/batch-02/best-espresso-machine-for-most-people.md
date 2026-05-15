@@ -14,7 +14,10 @@ Secondary Category: Buyer Fit and Long-Term Ownership
 Primary Intent: mainstream recommendation narrowing
 Buyer State: Wants one safe recommendation without getting trapped in complexity
 Semantic Territory: mainstream ownership fit, routine sustainability, anti-regret narrowing
-Primary Products: Breville Bambino, Philips LatteGo, Ninja Luxe Café
+Primary Products:
+- Breville Bambino
+- Philips LatteGo
+- Ninja Luxe Café
 Required Internal Links:
 - /espresso-hobby-vs-convenience/
 - /semi-automatic-vs-superautomatic-espresso-machines/
