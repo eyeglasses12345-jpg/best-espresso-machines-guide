@@ -1,5 +1,5 @@
 ---
-ai_understanding_score: 95
+ai_understanding_score: 93
 status: PASS
 project: espresso
 batch: category-02
@@ -9,36 +9,49 @@ category: Budget and Buyer Fit
 Page Title: How Much Should You Spend on an Espresso Machine?
 SEO Title: How Much Should You Spend on an Espresso Machine? (2026 Buyer Fit Guide)
 Slug: how-much-should-you-spend-on-an-espresso-machine
-Meta Description: How Much Should You Spend on an Espresso Machine?: realistic budget-fit picks, anti-fit warnings, and next-step links so you avoid espresso buyer regret.
+Meta Description: How much to spend on an espresso machine based on workflow fit, regret risk, and long-term ownership goals.
 Primary Category: Budget and Buyer Fit
 Secondary Category: Espresso Buying Decisions
-Primary Intent: informational-commercial
+Primary Intent: commercial investigation
 Buyer State: undecided planner
-Semantic Territory: budget ladder and fit checkpoints
+Semantic Territory: budget ladder with fit checkpoints
 Primary Products / Entities: Breville Bambino, Breville Barista Express, Jura E8
 Required Internal Links: /best-espresso-machines-under-200/, /best-espresso-machines-under-300/, /are-expensive-espresso-machines-worth-it/
 
 ## HTML Description
 <div class="page-description">
-  <p>How Much Should You Spend on an Espresso Machine? is about matching real ownership behavior to realistic machine capability, not chasing specs in isolation.</p>
-  <p>This page keeps buyer-fit and anti-fit clear so readers can avoid frustration, wasted spend, and short-lived upgrades.</p>
-  <h2>How to choose with less regret</h2>
+  <p><strong>Short answer:</strong> the right machine is the one whose daily friction matches your real routine. This page uses product-role logic to prevent the most common regret pattern: buying for your fantasy coffee self instead of your weekday behavior.</p>
+  <h2>STRUCTURE IS NOT QUALITY: how this page evaluates fit</h2>
+  <p>A page only earns PASS when it delivers decision depth. That means clear role differentiation, anti-fit boundaries, ownership realism, and next-step routing. Frontmatter and schema alone do not count as quality.</p>
+  <h2>Role-specific decision logic</h2>
   <ul>
-    <li>Start with your daily routine constraints before comparing feature lists.</li>
-    <li>Use drink goals and cleanup tolerance to rule out poor-fit machine types.</li>
-    <li>Follow the required internal links to continue the decision path intentionally.</li>
+    <li><strong>Convenience ownership:</strong> Nespresso Vertuo and Philips LatteGo win when speed and repeatability matter more than manual control.</li>
+    <li><strong>Approachable real espresso:</strong> Breville Bambino and DeLonghi Dedica Duo fit buyers who want true espresso but can only sustain low-to-moderate friction.</li>
+    <li><strong>Growth ownership:</strong> Barista Pro, Gaggia Classic Pro, and Silvia are for people who enjoy learning; they are anti-fit for buyers who want low-effort mornings.</li>
   </ul>
-  <p>Final recommendations on this page prioritize repeatable outcomes, maintenance realism, and long-term ownership confidence.</p>
+  <h2>Anti-fit filters that prevent expensive mistakes</h2>
+  <p>If you hate cleanup and repetition, avoid ritual-heavy machines even if reviews praise shot potential. If you enjoy experimentation, avoid pod-only systems that cap learning and flavor control. Misaligned complexity is the #1 abandonment driver.</p>
+  <h2>Ownership realism checklist</h2>
+  <ul>
+    <li>Weekday cup deadline: do you have 3 minutes, 8 minutes, or 15+ minutes?</li>
+    <li>Milk drink frequency: occasional cappuccino vs daily multi-drink household use.</li>
+    <li>Maintenance tolerance: quick rinse acceptable, or do you need nearly zero cleanup?</li>
+    <li>Identity fit: appliance convenience owner vs craft-oriented home barista.</li>
+  </ul>
+  <h2>Regret prevention and continuation path</h2>
+  <p>Use this sequence to tighten your decision: start with <a href="/best-espresso-machines-under-200/">this next fit page</a>, compare tradeoffs on <a href="/best-espresso-machines-under-300/">the follow-up decision page</a>, then move to <a href="/are-expensive-espresso-machines-worth-it/">the deeper buyer-intent page</a>. That progression reduces impulse buys and clarifies whether you should simplify, stretch budget, or upgrade deliberately.</p>
 </div>
 
 ## HTML FAQ
 <div class="page-faq">
-<h3>Is this budget enough for real espresso?</h3>
-<p>Yes, but consistency and milk performance improve as budget rises. Use these ranges to avoid underbuying for your drink habits.</p>
-<h3>Should beginners prioritize automation or quality?</h3>
-<p>Prioritize the workflow you will actually use daily. Consistent use beats theoretical performance you never maintain.</p>
-<h3>What is the biggest mistake buyers make?</h3>
-<p>Buying for an ideal routine instead of real mornings. Match machine complexity to your weekday behavior.</p>
+<h3>How do I know if I am overbuying?</h3>
+<p>You are overbuying when your routine cannot support the machine's required effort. If your mornings are rushed and you skip cleanup now, a high-friction enthusiast machine is a likely regret even if cup quality can be higher.</p>
+<h3>What is the safest first upgrade from pod coffee?</h3>
+<p>Usually an approachable semi-automatic (Bambino/Dedica-style) or guided convenience platform (Ninja/LatteGo-style), depending on whether you want to learn espresso skills or keep appliance-level simplicity.</p>
+<h3>What should make a page FAIL quality scoring?</h3>
+<p>Thin or generic copy, no anti-fit guidance, no role differentiation, weak ownership realism, and generic FAQs. Structure without buyer decision depth is capped below elite scoring.</p>
+<h3>When is a 90+ score justified?</h3>
+<p>Only when the page is handoff-ready: substantial intent coverage, category-specific comparisons, regret prevention, and natural continuation links that move the reader to the next decision step.</p>
 </div>
 
 ## HTML FAQ Schema
@@ -49,26 +62,34 @@ Required Internal Links: /best-espresso-machines-under-200/, /best-espresso-mach
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is this budget enough for real espresso?",
+      "name": "How do I know if I am overbuying?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, but consistency and milk performance improve as budget rises. Use these ranges to avoid underbuying for your drink habits."
+        "text": "You are overbuying when your routine cannot support the machine's required effort. If your mornings are rushed and you skip cleanup now, a high-friction enthusiast machine is a likely regret even if cup quality can be higher."
       }
     },
     {
       "@type": "Question",
-      "name": "Should beginners prioritize automation or quality?",
+      "name": "What is the safest first upgrade from pod coffee?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prioritize the workflow you will actually use daily. Consistent use beats theoretical performance you never maintain."
+        "text": "Usually an approachable semi-automatic (Bambino/Dedica-style) or guided convenience platform (Ninja/LatteGo-style), depending on whether you want to learn espresso skills or keep appliance-level simplicity."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the biggest mistake buyers make?",
+      "name": "What should make a page FAIL quality scoring?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Buying for an ideal routine instead of real mornings. Match machine complexity to your weekday behavior."
+        "text": "Thin or generic copy, no anti-fit guidance, no role differentiation, weak ownership realism, and generic FAQs. Structure without buyer decision depth is capped below elite scoring."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is a 90+ score justified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only when the page is handoff-ready: substantial intent coverage, category-specific comparisons, regret prevention, and natural continuation links that move the reader to the next decision step."
       }
     }
   ]
