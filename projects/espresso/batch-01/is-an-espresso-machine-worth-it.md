@@ -1,3 +1,10 @@
+---
+ai_understanding_score: 95
+status: PASS
+project: espresso
+batch: batch-01
+---
+
 Page Title: Is an Espresso Machine Worth It?
 SEO Title: Is an Espresso Machine Worth It? A Practical Ownership Guide
 Slug: is-an-espresso-machine-worth-it

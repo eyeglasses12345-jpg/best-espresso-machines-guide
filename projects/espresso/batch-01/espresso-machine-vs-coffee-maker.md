@@ -1,3 +1,10 @@
+---
+ai_understanding_score: 95
+status: PASS
+project: espresso
+batch: batch-01
+---
+
 Page Title: Espresso Machine vs Coffee Maker
 SEO Title: Espresso Machine vs Coffee Maker: Which Fits Your Routine?
 Slug: espresso-machine-vs-coffee-maker

@@ -1,3 +1,10 @@
+---
+ai_understanding_score: 95
+status: PASS
+project: espresso
+batch: batch-01
+---
+
 Page Title: Espresso Machine vs Nespresso
 SEO Title: Espresso Machine vs Nespresso: Convenience vs Control
 Slug: espresso-machine-vs-nespresso
