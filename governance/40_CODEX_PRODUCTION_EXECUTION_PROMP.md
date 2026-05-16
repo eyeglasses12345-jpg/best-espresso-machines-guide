@@ -2,9 +2,10 @@
 
 Before production begins, load ALL required governance files.
 
-These files are mandatory runtime governance.
+These files are:
+# mandatory runtime governance.
 
-Production may NOT begin until all required governance files are loaded and obeyed.
+Production may NOT begin until all required governance files are loaded, validated, and obeyed.
 
 ---
 
@@ -31,6 +32,44 @@ Production may NOT begin until all required governance files are loaded and obey
 - 18_SEMANTIC_GOVERNANCE_SYSTEM.md
 - 19_AI_SEARCH_OPTIMIZATION_SYSTEM.md
 - 39_MASTER_PAGE_PRODUCTION_CHECKLIST.md
+- 51_BATCH_DEPLOYMENT_PIPELINE.md
+- 52_FINAL_CMS_EXPORT_RULES.md
+- ESPRESSO_OPERATIONAL_SEMANTICS.md
+
+---
+
+# ESPRESSO OPERATIONAL GOVERNANCE
+
+ALL pages must obey:
+- ESPRESSO_OPERATIONAL_SEMANTICS.md
+
+This file is:
+# mandatory runtime governance for the entire espresso ecosystem.
+
+Pages must include:
+- espresso operational realism
+- extraction causality
+- grinder dependency
+- workflow consequences
+- maintenance burden
+- steaming workflow realities
+- operational regret chains
+- machine-behavior differences
+- coffee-specific ownership intelligence
+
+Pages may NOT:
+- become generic buying guides
+- rely only on buyer psychology
+- flatten espresso mechanics into abstract lifestyle commentary
+- discuss workflow without espresso-specific operational consequences
+- describe machines without behavioral differences
+
+FAIL if:
+- espresso operational depth is missing
+- grinder causality is absent
+- extraction logic is absent
+- workflow consequences are generic
+- operational realism could apply to unrelated product categories
 
 ---
 
