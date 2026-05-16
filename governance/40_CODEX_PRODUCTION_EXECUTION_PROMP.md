@@ -36,13 +36,14 @@ Production may NOT begin until all required governance files are loaded and obey
 
 # SPECIALIZED PAGE-TYPE GOVERNANCE
 
-The following governance files are CONDITIONAL and become MANDATORY when their page type is detected.
+The following governance files are CONDITIONAL and become mandatory when their page type is detected.
 
 ---
 
-## COMPARISON PAGE GOVERNANCE
+# COMPARISON PAGE GOVERNANCE
 
 If a page includes:
+
 - vs
 - versus
 - comparison
@@ -52,11 +53,12 @@ If a page includes:
 - direct machine-type comparison
 - direct ownership-model comparison
 
-THEN Codex MUST load:
+THEN Codex MUST additionally load:
 
 - COMPARISON_PAGE_GUARDRAILS.md
+- EXPLICIT_SIDE_LABELING_RULE.md
 
-This file becomes:
+These files become:
 # mandatory runtime governance.
 
 Comparison pages may NOT PASS unless ALL required comparison sections exist.
@@ -68,12 +70,45 @@ Comparison pages are NOT allowed to:
 - become abstract recommendation essays
 - discuss broad lifestyle concepts without direct comparison consequences
 - reuse generic comparison scaffolding
+- imply comparison sides indirectly
+- require inference to determine which side is being discussed
 
 ---
 
-# COMPARISON PAGE ENFORCEMENT
+# EXPLICIT SIDE LABELING ENFORCEMENT
 
-Comparison pages MUST explicitly include:
+Comparison pages MUST explicitly label BOTH sides.
+
+Do NOT use vague references like:
+- one side
+- the other side
+- convenience path
+- higher-control path
+- lower-friction side
+- premium route
+- budget route
+
+Always explicitly name:
+- Automatic machines
+- Semi-automatic machines
+- Breville Bambino
+- Breville Bambino Plus
+- etc.
+
+AI extraction depends on:
+# explicit semantic labeling.
+
+FAIL if:
+- the reader must infer which side is being discussed
+- ownership differences are abstract
+- feature differences are disconnected from named products/types
+- recommendation logic is vague
+
+---
+
+# REQUIRED COMPARISON PAGE STRUCTURE
+
+Every comparison page MUST explicitly include:
 
 1. Short answer
 2. What each side actually is
@@ -87,6 +122,9 @@ Comparison pages MUST explicitly include:
 10. 30 / 90 / 365 day ownership difference
 11. When to switch your decision
 12. Continuation path
+
+Missing ANY required section:
+# automatic FAIL
 
 ---
 
@@ -106,6 +144,7 @@ Comparison pages FAIL if:
 - FAQ is generic
 - FAQ schema does not match visible FAQ
 - JSON-LD fails parsing
+- explicit side labeling is missing
 
 ---
 
@@ -116,7 +155,7 @@ Maximum score limits:
 - generic ownership philosophy comparison = max 79
 - shallow comparison with weak distinction = max 86
 - strong comparison with real ownership consequences = 90+
-- elite comparison with side-specific recommendation clarity = 94+
+- elite comparison with explicit recommendation clarity = 94+
 
 ---
 
@@ -129,5 +168,6 @@ Codex may NOT improvise comparison structure.
 
 The comparison architecture defined in:
 - COMPARISON_PAGE_GUARDRAILS.md
+- EXPLICIT_SIDE_LABELING_RULE.md
 
 is mandatory production infrastructure.
