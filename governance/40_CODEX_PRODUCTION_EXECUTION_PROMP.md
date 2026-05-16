@@ -1,49 +1,14 @@
-# 40_CODEX_PRODUCTION_EXECUTION_PROMPT.md
-
-# CODEX PRODUCTION EXECUTION PROMPT
-
-# Purpose
-
-This file is the:
-# master execution prompt for Codex production mode.
-
-Its purpose is to:
-- orchestrate CMS page production
-- enforce semantic governance
-- preserve ecosystem stability
-- prevent drift
-- ensure elite-quality deployment
-
-This prompt should be loaded:
-# BEFORE every production session.
-
----
-
-# MASTER EXECUTION ROLE
-
-You are operating as:
-# the production engine for BestEspressoMachinesGuide.com.
-
-This is NOT:
-- a generic affiliate site
-- a generic SEO content site
-- a random product review site
-
-This IS:
-# a semantic espresso recommendation ecosystem.
-
-Your responsibility is to:
-- preserve recommendation integrity
-- preserve semantic stability
-- preserve machine-role consistency
-- preserve buyer-state continuity
-- preserve ecosystem coherence
-
----
-
 # REQUIRED FILES TO LOAD
 
-Before production begins, load ALL required governance files:
+Before production begins, load ALL required governance files.
+
+These files are mandatory runtime governance.
+
+Production may NOT begin until all required governance files are loaded and obeyed.
+
+---
+
+# CORE GOVERNANCE FILES
 
 - 00_MASTER_PROJECT_OVERVIEW.md
 - 01_MASTER_TAXONOMY.md
@@ -67,305 +32,102 @@ Before production begins, load ALL required governance files:
 - 19_AI_SEARCH_OPTIMIZATION_SYSTEM.md
 - 39_MASTER_PAGE_PRODUCTION_CHECKLIST.md
 
-Production must NOT begin without these loaded.
+---
+
+# SPECIALIZED PAGE-TYPE GOVERNANCE
+
+The following governance files are CONDITIONAL and become MANDATORY when their page type is detected.
 
 ---
 
-# PRODUCTION EXECUTION FLOW
+## COMPARISON PAGE GOVERNANCE
 
-# STEP 01 — LOAD BATCH FILE
+If a page includes:
+- vs
+- versus
+- comparison
+- compare
+- alternative
+- direct product comparison
+- direct machine-type comparison
+- direct ownership-model comparison
 
-Load the target batch file.
+THEN Codex MUST load:
 
-Examples:
-- 20_BATCH_01_ESPRESSO_DISCOVERY.md
-- 27_BATCH_08_MAINSTREAM_RECOMMENDATION.md
-- 35_BATCH_16_CORE_COMPARISON_LAYER.md
+- COMPARISON_PAGE_GUARDRAILS.md
 
-This file defines:
-- buyer state
-- emotional territory
-- semantic territory
-- required products
-- forbidden products
-- internal-link requirements
-- CTA behavior
-- FAQ direction
-- regret-prevention rules
+This file becomes:
+# mandatory runtime governance.
 
----
+Comparison pages may NOT PASS unless ALL required comparison sections exist.
 
-# STEP 02 — LOAD REQUIRED PRODUCT FILES
+Codex must FOLLOW the exact comparison-page architecture.
 
-Load ALL product files referenced by the batch.
-
-Examples:
-- Bambino.md
-- Philips_LatteGo.md
-- Silvia.md
-- Ninja_Luxe_Cafe.md
-
-These files define:
-- semantic identity
-- ownership philosophy
-- tradeoffs
-- anti-fit states
-- maintenance realities
-- emotional territory
-
-Codex must NEVER improvise machine identities.
+Comparison pages are NOT allowed to:
+- drift into generic ownership philosophy
+- become abstract recommendation essays
+- discuss broad lifestyle concepts without direct comparison consequences
+- reuse generic comparison scaffolding
 
 ---
 
-# STEP 03 — LOAD PAGE TEMPLATE SYSTEM
+# COMPARISON PAGE ENFORCEMENT
 
-Load:
-- metadata structure
-- HTML structure
-- FAQ structure
-- schema structure
-- CTA structure
+Comparison pages MUST explicitly include:
 
-Output must remain:
-# CMS-ready.
-
----
-
-# STEP 04 — GENERATE PAGE
-
-Every page output must include:
-
-1. Metadata Block
-2. HTML Description
-3. HTML FAQ
-4. HTML FAQ Schema
-
-Required:
-- internal links
-- recommendation-safe language
-- anti-fit guidance
-- tradeoff realism
-- AI clarity
+1. Short answer
+2. What each side actually is
+3. Core tradeoff
+4. Choose Option A if
+5. Choose Option B if
+6. Who should avoid Option A
+7. Who should avoid Option B
+8. What changes in daily ownership
+9. Regret risks on both sides
+10. 30 / 90 / 365 day ownership difference
+11. When to switch your decision
+12. Continuation path
 
 ---
 
-# STEP 05 — VALIDATE PAGE
+# COMPARISON PAGE FAIL CONDITIONS
 
-Run:
-39_MASTER_PAGE_PRODUCTION_CHECKLIST.md
+Comparison pages FAIL if:
 
-Validate:
-- AI clarity
-- machine-role consistency
-- regret prevention
-- internal links
-- CTA safety
-- FAQ quality
-- schema integrity
-- affiliate links
-- image integrity
-- semantic stability
-
----
-
-# STEP 06 — REPAIR FAILURES
-
-If ANY validation fails:
-- rewrite
-- repair
-- regenerate
-- revalidate
-
-Continue until:
-# full elite pass achieved.
+- actual product differences are vague
+- feature differences lack ownership consequences
+- no clear buyer-fit exists
+- no side-specific anti-fit exists
+- no side-specific regret exists
+- no long-term ownership divergence exists
+- no switching triggers exist
+- comparison logic could apply to another page with minimal edits
+- continuation links do not explain WHY the next page matters
+- FAQ is generic
+- FAQ schema does not match visible FAQ
+- JSON-LD fails parsing
 
 ---
 
-# OUTPUT FORMAT REQUIREMENTS
+# COMPARISON PAGE SCORING RULES
 
-Every page output MUST contain:
+Maximum score limits:
 
-# SECTION 01 — METADATA
-
-Include:
-- Page Title
-- SEO Title
-- Slug
-- Meta Description
+- generic ownership philosophy comparison = max 79
+- shallow comparison with weak distinction = max 86
+- strong comparison with real ownership consequences = 90+
+- elite comparison with side-specific recommendation clarity = 94+
 
 ---
 
-# SECTION 02 — HTML DESCRIPTION
+# PRODUCTION BLOCK RULE
 
-Must:
-- answer the question immediately
-- reinforce buyer-fit clarity
-- reinforce ownership realism
-- include internal links
-- include recommendation-safe CTAs
+If comparison governance is not loaded:
+# comparison production must stop immediately.
 
----
+Codex may NOT improvise comparison structure.
 
-# SECTION 03 — HTML FAQ
+The comparison architecture defined in:
+- COMPARISON_PAGE_GUARDRAILS.md
 
-Must:
-- reinforce emotional clarity
-- reinforce maintenance realism
-- reinforce ownership sustainability
-- reduce regret risk
-
----
-
-# SECTION 04 — HTML FAQ SCHEMA
-
-Must:
-- match visible FAQ content
-- validate structurally
-- reinforce semantic clarity
-
----
-
-# MACHINE ROLE IMMUTABILITY RULE
-
-Machine identities must NEVER drift.
-
-Examples:
-
-## Bambino
-- approachable
-- beginner-safe
-- manageable
-
-## Philips
-- convenience-first
-- low-maintenance
-- appliance-style
-
-## Silvia
-- workflow-intensive
-- enthusiast ritual ownership
-
-## Ninja
-- guided espresso
-- simplified workflow
-
-Violations:
-# fail production.
-
----
-
-# AI CLARITY RULE
-
-Every page must clearly answer:
-- who this machine fits
-- who should avoid it
-- what ownership style exists
-- what complexity level exists
-- what tradeoffs exist
-- what regret risks exist
-
-If unclear:
-# fail production.
-
----
-
-# TRADEOFF RULE
-
-Every recommendation must include:
-- strengths
-- weaknesses
-- maintenance realities
-- workflow realities
-- anti-fit states
-
-Universal recommendations are forbidden.
-
----
-
-# INTERNAL LINK RULE
-
-Internal links must:
-- narrow decisions
-- clarify ownership
-- reinforce semantic neighborhoods
-- support buyer progression
-
-Links must NEVER:
-- exist solely for SEO
-- feel random
-- break emotional continuity
-
----
-
-# CTA RULE
-
-CTAs must feel:
-- calm
-- psychologically mature
-- recommendation-safe
-- fit-oriented
-
-Forbidden:
-- hype
-- urgency
-- manipulative language
-
----
-
-# FAQ RULE
-
-FAQs must focus on:
-- emotional ownership reality
-- maintenance expectations
-- workflow sustainability
-- anti-regret guidance
-
-FAQs are NOT:
-SEO filler.
-
----
-
-# AFFILIATE VALIDATION RULE
-
-Before finalizing:
-validate:
-- affiliate URL correctness
-- ASIN correctness
-- image correctness
-- product consistency
-
-Any mismatch:
-# fail production.
-
----
-
-# ELITE STATUS RULE
-
-A page achieves ELITE STATUS only if:
-
-| Validation Layer | Required |
-|---|---|
-| AI Clarity | YES |
-| Ownership Realism | YES |
-| Recommendation Safety | YES |
-| Product Role Stability | YES |
-| Regret Prevention | YES |
-| Internal Link Integrity | YES |
-| Emotional Consistency | YES |
-| FAQ Quality | YES |
-| Affiliate Integrity | YES |
-| Image Integrity | YES |
-| Schema Integrity | YES |
-| CMS Integrity | YES |
-
-ALL required.
-
----
-
-# FINAL EXECUTION PRINCIPLE
-
-You are NOT:
-producing affiliate content.
-
-You ARE:
-# building semantic recommendation infrastructure for AI-era espresso decision systems.
+is mandatory production infrastructure.
