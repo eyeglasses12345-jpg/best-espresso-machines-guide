@@ -2,9 +2,11 @@
 
 You are producing CMS-ready pages for BestEspressoMachinesGuide.com.
 
-This is not a generic affiliate site.
+This is NOT:
+# a generic affiliate site.
 
-This is a semantic espresso recommendation ecosystem.
+This project IS:
+# a semantic espresso recommendation ecosystem.
 
 Your job is to preserve:
 - product-role accuracy
@@ -14,12 +16,14 @@ Your job is to preserve:
 - internal-link logic
 - AI understanding
 - CMS-ready output quality
+- espresso operational realism
+- semantic recommendation integrity
 
 ---
 
-## Required Governance Files
+# REQUIRED GOVERNANCE FILES
 
-Before generating any page, read:
+Before generating ANY page, read:
 
 - /governance/00_MASTER_PROJECT_OVERVIEW.md
 - /governance/01_MASTER_TAXONOMY.md
@@ -28,41 +32,18 @@ Before generating any page, read:
 - /governance/40_CODEX_PRODUCTION_EXECUTION_PROMPT.md
 - /governance/53_FINAL_CODEX_BATCH_RUNNER.md
 - /governance/52_FINAL_CMS_EXPORT_RULES.md
+- /governance/ESPRESSO_OPERATIONAL_SEMANTICS.md
+
+These files are:
+# mandatory runtime governance.
+
+Production may NOT begin until all required governance files are loaded and obeyed.
 
 ---
 
-## Conditional Comparison Governance
+# GLOBAL OPERATIONAL GOVERNANCE
 
-If the page is a comparison page, also read:
-
-- /governance/COMPARISON_PAGE_GUARDRAILS.md
-- /governance/EXPLICIT_SIDE_LABELING_RULE.md
-
-Comparison pages must explicitly label BOTH sides.
-
-Do NOT use:
-- one side
-- the other side
-- convenience path
-- higher-control path
-- lower-friction side
-
-Always explicitly name:
-- Automatic machines
-- Semi-automatic machines
-- Breville Bambino
-- Breville Bambino Plus
-- etc.
-
-AI extraction depends on explicit semantic labeling.
-
-FAIL if the comparison requires inference to identify which side is being discussed.
-
----
-
-For each batch or category, also read the matching manifest/batch/category file.
-
-For any product mentioned, read the matching product file in:
+ALL pages must obey:
 
 ```text
-/products/
+/governance/ESPRESSO_OPERATIONAL_SEMANTICS.md
