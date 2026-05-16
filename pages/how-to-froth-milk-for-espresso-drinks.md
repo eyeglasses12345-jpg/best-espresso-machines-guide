@@ -1,7 +1,3 @@
-FILE NAME:
-how-to-froth-milk-for-espresso-drinks.md
-
-```md
 ---
 page_title: "How to Froth Milk for Espresso Drinks"
 seo_title: "How to Froth Milk for Espresso Drinks"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/how-to-froth-milk-for-espresso-drinks.md`
 2. Move to next page
-```

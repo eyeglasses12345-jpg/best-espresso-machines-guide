@@ -1,7 +1,3 @@
-FILE NAME:
-delonghi-vs-breville-espresso-machine.md
-
-```md
 ---
 page_title: "DeLonghi vs Breville Espresso Machine"
 seo_title: "DeLonghi vs Breville Espresso Machine"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/delonghi-vs-breville-espresso-machine.md`
 2. Move to next page
-```

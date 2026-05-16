@@ -1,7 +1,3 @@
-FILE NAME:
-how-long-do-espresso-machines-last.md
-
-```md
 ---
 page_title: "How Long do Espresso Machines Last"
 seo_title: "How Long do Espresso Machines Last"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/how-long-do-espresso-machines-last.md`
 2. Move to next page
-```

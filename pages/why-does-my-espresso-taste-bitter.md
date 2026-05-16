@@ -1,7 +1,3 @@
-FILE NAME:
-why-does-my-espresso-taste-bitter.md
-
-```md
 ---
 page_title: "Why Does My Espresso Taste Bitter"
 seo_title: "Why Does My Espresso Taste Bitter"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/why-does-my-espresso-taste-bitter.md`
 2. Move to next page
-```

@@ -1,7 +1,3 @@
-FILE NAME:
-how-often-should-you-descale-an-espresso-machine.md
-
-```md
 ---
 page_title: "How Often Should You Descale an Espresso Machine"
 seo_title: "How Often Should You Descale an Espresso Machine"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/how-often-should-you-descale-an-espresso-machine.md`
 2. Move to next page
-```

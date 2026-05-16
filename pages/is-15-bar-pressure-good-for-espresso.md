@@ -1,7 +1,3 @@
-FILE NAME:
-is-15-bar-pressure-good-for-espresso.md
-
-```md
 ---
 page_title: "Is 15 Bar Pressure Good for Espresso"
 seo_title: "Is 15 Bar Pressure Good for Espresso"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/is-15-bar-pressure-good-for-espresso.md`
 2. Move to next page
-```

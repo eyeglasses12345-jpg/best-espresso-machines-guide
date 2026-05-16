@@ -1,7 +1,3 @@
-FILE NAME:
-espresso-machine-troubleshooting-guide.md
-
-```md
 ---
 page_title: "Espresso Machine Troubleshooting Guide"
 seo_title: "Espresso Machine Troubleshooting Guide"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/espresso-machine-troubleshooting-guide.md`
 2. Move to next page
-```

@@ -1,7 +1,3 @@
-FILE NAME:
-what-to-know-before-buying-an-espresso-machine.md
-
-```md
 ---
 page_title: "What to Know Before Buying an Espresso Machine"
 seo_title: "What to Know Before Buying an Espresso Machine"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/what-to-know-before-buying-an-espresso-machine.md`
 2. Move to next page
-```

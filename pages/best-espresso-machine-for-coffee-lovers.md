@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machine-for-coffee-lovers.md
-
-```md
 ---
 page_title: "Best Espresso Machine for Coffee Lovers"
 seo_title: "Best Espresso Machine for Coffee Lovers"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machine-for-coffee-lovers.md`
 2. Move to next page
-```

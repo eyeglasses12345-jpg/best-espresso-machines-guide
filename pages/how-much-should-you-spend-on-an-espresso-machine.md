@@ -1,7 +1,3 @@
-FILE NAME:
-how-much-should-you-spend-on-an-espresso-machine.md
-
-```md
 ---
 page_title: "How Much Should You Spend on an Espresso Machine"
 seo_title: "How Much Should You Spend on an Espresso Machine"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/how-much-should-you-spend-on-an-espresso-machine.md`
 2. Move to next page
-```

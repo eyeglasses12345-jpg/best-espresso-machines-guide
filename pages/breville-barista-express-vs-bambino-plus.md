@@ -1,7 +1,3 @@
-FILE NAME:
-breville-barista-express-vs-bambino-plus.md
-
-```md
 ---
 page_title: "Breville Barista Express vs Bambino Plus"
 seo_title: "Breville Barista Express vs Bambino Plus"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/breville-barista-express-vs-bambino-plus.md`
 2. Move to next page
-```

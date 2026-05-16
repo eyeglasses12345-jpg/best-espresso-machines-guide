@@ -1,7 +1,3 @@
-FILE NAME:
-built-in-grinder-vs-separate-grinder.md
-
-```md
 ---
 page_title: "Built in Grinder vs Separate Grinder"
 seo_title: "Built in Grinder vs Separate Grinder"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/built-in-grinder-vs-separate-grinder.md`
 2. Move to next page
-```

@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machine-for-people-who-hate-complicated-machines.md
-
-```md
 ---
 page_title: "Best Espresso Machine for People Who Hate Complicated Machines"
 seo_title: "Best Espresso Machine for People Who Hate Complicate..."
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machine-for-people-who-hate-complicated-machines.md`
 2. Move to next page
-```

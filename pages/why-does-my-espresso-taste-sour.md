@@ -1,7 +1,3 @@
-FILE NAME:
-why-does-my-espresso-taste-sour.md
-
-```md
 ---
 page_title: "Why Does My Espresso Taste Sour"
 seo_title: "Why Does My Espresso Taste Sour"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/why-does-my-espresso-taste-sour.md`
 2. Move to next page
-```

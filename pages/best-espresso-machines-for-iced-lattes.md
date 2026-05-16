@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machines-for-iced-lattes.md
-
-```md
 ---
 page_title: "Best Espresso Machines for Iced Lattes"
 seo_title: "Best Espresso Machines for Iced Lattes"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machines-for-iced-lattes.md`
 2. Move to next page
-```

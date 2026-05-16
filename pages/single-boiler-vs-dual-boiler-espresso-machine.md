@@ -1,7 +1,3 @@
-FILE NAME:
-single-boiler-vs-dual-boiler-espresso-machine.md
-
-```md
 ---
 page_title: "Single Boiler vs Dual Boiler Espresso Machine"
 seo_title: "Single Boiler vs Dual Boiler Espresso Machine"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/single-boiler-vs-dual-boiler-espresso-machine.md`
 2. Move to next page
-```

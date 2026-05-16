@@ -1,7 +1,3 @@
-FILE NAME:
-is-a-home-espresso-machine-worth-it.md
-
-```md
 ---
 page_title: "Is a Home Espresso Machine Worth It"
 seo_title: "Is a Home Espresso Machine Worth It"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/is-a-home-espresso-machine-worth-it.md`
 2. Move to next page
-```

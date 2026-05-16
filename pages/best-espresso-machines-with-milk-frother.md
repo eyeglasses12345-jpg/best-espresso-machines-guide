@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machines-with-milk-frother.md
-
-```md
 ---
 page_title: "Best Espresso Machines with Milk Frother"
 seo_title: "Best Espresso Machines with Milk Frother"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machines-with-milk-frother.md`
 2. Move to next page
-```

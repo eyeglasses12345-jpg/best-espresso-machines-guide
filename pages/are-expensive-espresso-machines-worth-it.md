@@ -1,7 +1,3 @@
-FILE NAME:
-are-expensive-espresso-machines-worth-it.md
-
-```md
 ---
 page_title: "Are Expensive Espresso Machines Worth It"
 seo_title: "Are Expensive Espresso Machines Worth It"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/are-expensive-espresso-machines-worth-it.md`
 2. Move to next page
-```
