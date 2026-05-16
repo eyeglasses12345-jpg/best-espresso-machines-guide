@@ -1,7 +1,3 @@
-FILE NAME:
-breville-bambino-vs-bambino-plus.md
-
-```md
 ---
 page_title: "Breville Bambino vs Bambino Plus"
 seo_title: "Breville Bambino vs Bambino Plus"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/breville-bambino-vs-bambino-plus.md`
 2. Move to next page
-```

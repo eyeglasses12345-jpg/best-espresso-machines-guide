@@ -1,7 +1,3 @@
-FILE NAME:
-cheap-espresso-machines-worth-buying.md
-
-```md
 ---
 page_title: "Cheap Espresso Machines Worth Buying"
 seo_title: "Cheap Espresso Machines Worth Buying"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/cheap-espresso-machines-worth-buying.md`
 2. Move to next page
-```

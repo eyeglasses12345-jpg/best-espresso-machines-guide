@@ -1,7 +1,3 @@
-FILE NAME:
-what-is-the-best-espresso-machine-for-home-use.md
-
-```md
 ---
 page_title: "What is the Best Espresso Machine for Home Use"
 seo_title: "What is the Best Espresso Machine for Home Use"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/what-is-the-best-espresso-machine-for-home-use.md`
 2. Move to next page
-```

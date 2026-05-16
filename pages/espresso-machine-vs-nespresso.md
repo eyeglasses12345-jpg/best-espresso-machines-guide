@@ -1,7 +1,3 @@
-FILE NAME:
-espresso-machine-vs-nespresso.md
-
-```md
 ---
 page_title: "Espresso Machine vs Nespresso"
 seo_title: "Espresso Machine vs Nespresso"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/espresso-machine-vs-nespresso.md`
 2. Move to next page
-```

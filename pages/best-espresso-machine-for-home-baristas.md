@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machine-for-home-baristas.md
-
-```md
 ---
 page_title: "Best Espresso Machine for Home Baristas"
 seo_title: "Best Espresso Machine for Home Baristas"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machine-for-home-baristas.md`
 2. Move to next page
-```

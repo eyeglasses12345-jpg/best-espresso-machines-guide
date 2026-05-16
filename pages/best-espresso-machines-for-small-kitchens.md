@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machines-for-small-kitchens.md
-
-```md
 ---
 page_title: "Best Espresso Machines for Small Kitchens"
 seo_title: "Best Espresso Machines for Small Kitchens"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machines-for-small-kitchens.md`
 2. Move to next page
-```

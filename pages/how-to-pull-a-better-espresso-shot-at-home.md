@@ -1,7 +1,3 @@
-FILE NAME:
-how-to-pull-a-better-espresso-shot-at-home.md
-
-```md
 ---
 page_title: "How to Pull a Better Espresso Shot at Home"
 seo_title: "How to Pull a Better Espresso Shot at Home"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/how-to-pull-a-better-espresso-shot-at-home.md`
 2. Move to next page
-```

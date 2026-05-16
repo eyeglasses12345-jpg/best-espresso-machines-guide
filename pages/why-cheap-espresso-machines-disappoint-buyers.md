@@ -1,7 +1,3 @@
-FILE NAME:
-why-cheap-espresso-machines-disappoint-buyers.md
-
-```md
 ---
 page_title: "Why Cheap Espresso Machines Disappoint Buyers"
 seo_title: "Why Cheap Espresso Machines Disappoint Buyers"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/why-cheap-espresso-machines-disappoint-buyers.md`
 2. Move to next page
-```

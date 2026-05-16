@@ -1,7 +1,3 @@
-FILE NAME:
-best-super-automatic-espresso-machines.md
-
-```md
 ---
 page_title: "Best Super Automatic Espresso Machines"
 seo_title: "Best Super Automatic Espresso Machines"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-super-automatic-espresso-machines.md`
 2. Move to next page
-```

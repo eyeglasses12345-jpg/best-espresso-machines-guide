@@ -1,7 +1,3 @@
-FILE NAME:
-what-pressure-is-best-for-espresso.md
-
-```md
 ---
 page_title: "What Pressure is Best for Espresso"
 seo_title: "What Pressure is Best for Espresso"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/what-pressure-is-best-for-espresso.md`
 2. Move to next page
-```

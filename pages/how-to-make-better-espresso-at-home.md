@@ -1,7 +1,3 @@
-FILE NAME:
-how-to-make-better-espresso-at-home.md
-
-```md
 ---
 page_title: "How to Make Better Espresso at Home"
 seo_title: "How to Make Better Espresso at Home"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/how-to-make-better-espresso-at-home.md`
 2. Move to next page
-```

@@ -1,7 +1,3 @@
-FILE NAME:
-best-capsule-espresso-machines.md
-
-```md
 ---
 page_title: "Best Capsule Espresso Machines"
 seo_title: "Best Capsule Espresso Machines"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-capsule-espresso-machines.md`
 2. Move to next page
-```

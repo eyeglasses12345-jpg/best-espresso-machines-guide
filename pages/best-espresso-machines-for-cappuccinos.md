@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machines-for-cappuccinos.md
-
-```md
 ---
 page_title: "Best Espresso Machines for Cappuccinos"
 seo_title: "Best Espresso Machines for Cappuccinos"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machines-for-cappuccinos.md`
 2. Move to next page
-```

@@ -1,7 +1,3 @@
-FILE NAME:
-super-automatic-vs-semi-automatic-espresso-machine.md
-
-```md
 ---
 page_title: "Super Automatic vs Semi Automatic Espresso Machine"
 seo_title: "Super Automatic vs Semi Automatic Espresso Machine"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/super-automatic-vs-semi-automatic-espresso-machine.md`
 2. Move to next page
-```

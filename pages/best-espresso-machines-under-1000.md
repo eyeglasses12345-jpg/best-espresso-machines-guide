@@ -1,7 +1,3 @@
-FILE NAME:
-best-espresso-machines-under-1000.md
-
-```md
 ---
 page_title: "Best Espresso Machines under 1000"
 seo_title: "Best Espresso Machines under 1000"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/best-espresso-machines-under-1000.md`
 2. Move to next page
-```

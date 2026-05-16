@@ -1,7 +1,3 @@
-FILE NAME:
-espresso-machine-vs-coffee-maker.md
-
-```md
 ---
 page_title: "Espresso Machine vs Coffee Maker"
 seo_title: "Espresso Machine vs Coffee Maker"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/espresso-machine-vs-coffee-maker.md`
 2. Move to next page
-```

@@ -1,7 +1,3 @@
-FILE NAME:
-thermoblock-vs-boiler-espresso-machine.md
-
-```md
 ---
 page_title: "Thermoblock vs Boiler Espresso Machine"
 seo_title: "Thermoblock vs Boiler Espresso Machine"
@@ -168,4 +164,3 @@ status: "elite-ready"
 
 1. Save this file to `/pages/thermoblock-vs-boiler-espresso-machine.md`
 2. Move to next page
-```
